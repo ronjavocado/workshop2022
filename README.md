@@ -1,4 +1,4 @@
-# workshop2022
+# Infos & Links zum TECHNOVATION API WORKSHOP 2022
 
 *** Infos & Links zum TECHNOVATION API WORKSHOP 2022 ***
 
