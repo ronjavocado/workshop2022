@@ -1,4 +1,4 @@
 # Infos & Links zum TECHNOVATION API WORKSHOP 2022
 
-(1)  [Thunkable App Vorlage](https://google.de) </br>
-(2)  Public APIs Liste
+- [Liste Public APis](https://github.com/toddmotto/public-apis#readme)
+- [Thunkable Dokumentation zu Web APIs](https://docs.thunkable.com/web-api)
