@@ -1,9 +1,10 @@
 # Infos & Links zum TECHNOVATION API WORKSHOP 2022
 
 Für den Workshop
-- [Dog API](www.dog.ceo)
-- [Ente API](https://random-d.uk/api)
-- [Fuchs API](https://randomfox.ca/floof/)
+- [Dog API: Bilder](www.dog.ceo)
+- [Fuchs API: Bilder](https://randomfox.ca/floof/)
+- [Zootiere API: Bilder und Text](https://zoo-animal-api.herokuapp.com/animals/rand)
+- 
 
 
 Weitere Informationen nach dem Workshop
